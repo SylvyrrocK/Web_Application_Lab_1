@@ -1,0 +1,51 @@
+img {
+    border: 5px solid #555;
+}
+
+#one {
+    font-family: 'Impact';
+    color: red;
+    font-size: 40px;
+}
+
+#two{
+    font-family: 'Times New Roman';
+    color: blue;
+    font-size: 50px;
+}
+
+.three{
+    font-family: 'Impact';
+    color: green;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+}
+
+.ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+
+#str {
+    width: 800px;
+    padding: 20px;
+    height: auto;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin: 200px auto;
+    color: white;
+    font-weight: bold;
+    background: #412
+ }
